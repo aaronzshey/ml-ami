@@ -1,7 +1,6 @@
 # Machine learning reliably identifies and ranks laboratory and demographic predictors in acute myocardial infarction: a MIMIC-IV study
-Shey, Aaron$^1$ and Shey, Jason$^2$
-$^1$:University of California, Berkeley
-$^2$:West Coast Kidney Institute
+Shey, Aaron (University of California, Berkeley) and Shey, Jason (West Coast Kidney Institute)
+
 ## Introduction 
 
 Machine learning has emerged as one of the
